@@ -1,2 +1,3 @@
 # acsv_lib
-C++ Library for CSV files
+C++ Library for reading and querying CSV files.
+Used in the project "acsv".
